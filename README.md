@@ -9,7 +9,7 @@ A responsive **Instagram UI clone** built using **HTML**, **Tailwind CSS**, and 
 
 ---
 
-## 📊 Features
+## 📊 Features 
 
 - **Responsive Layout** – Fully mobile-first design, works across all devices  
 - **Instagram UI Components**:
