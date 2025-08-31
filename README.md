@@ -8,7 +8,7 @@ A responsive **Instagram UI clone** built using **HTML**, **Tailwind CSS**, and 
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge&logo=responsive&logoColor=white)
 
 ---
-
+   
 ## 📊 Features 
 
 - **Responsive Layout** – Fully mobile-first design, works across all devices  
