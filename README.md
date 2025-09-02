@@ -12,7 +12,7 @@ A responsive **Instagram UI clone** built using **HTML**, **Tailwind CSS**, and 
 ## 📊 Features 
 
 - **Responsive Layout** – Fully mobile-first design, works across all devices  
-- **Instagram UI Components**:
+- **Instagram UI Components**: 
   - Top navigation bar with logo and icons
   - Stories section with profile images and gradient borders
   - Feed posts with user info, image, likes, and comments
