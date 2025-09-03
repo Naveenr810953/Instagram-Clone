@@ -7,7 +7,7 @@ A responsive **Instagram UI clone** built using **HTML**, **Tailwind CSS**, and 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Responsive Design](https://img.shields.io/badge/Responsive-Design-00C853?style=for-the-badge&logo=responsive&logoColor=white)
 
----
+---  
    
 ## 📊 Features 
 
