@@ -6,7 +6,7 @@
         -ms-overflow-style: none;
         scrollbar-width: none;
     }   
-    .story-gradient {
+    .story-gradient {   
         background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
     }
     // css script 
